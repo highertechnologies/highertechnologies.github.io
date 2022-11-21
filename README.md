@@ -1,3 +1,3 @@
-# highertechnologies.github.io
+# HigheR 
 
-# Para apresentar nossa empresa e nossas ideias, criamos nosso próprio sie.!
+Para apresentar nossa empresa e nossas ideias, criamos nosso próprio sie.!
